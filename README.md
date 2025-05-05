@@ -44,6 +44,3 @@ jupyter notebook pinn_burgers.ipynb
 - PINN is trained to solve the Burgers' equation using physics-driven loss.
 - Training loss and predicted solution are visualized.
 
-## 📄 License
-
-MIT License
