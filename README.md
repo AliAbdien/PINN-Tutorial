@@ -11,6 +11,7 @@ Physics-Informed Neural Networks integrate physical laws into the training of ne
 We solve the 1D nonlinear Burgers' equation:
 
 `∂u/∂t + u ∂u/∂x = ν ∂²u/∂x²`
+![ChatGPT Image May 6, 2025, 12_46_11 AM](https://github.com/user-attachments/assets/a7cc7fc5-06dd-404e-a68c-5527f6800b32)
 
 
 ## 📂 Project Structure
