@@ -10,9 +10,8 @@ Physics-Informed Neural Networks integrate physical laws into the training of ne
 
 We solve the 1D nonlinear Burgers' equation:
 
-\[
-\frac{\partial u}{\partial t} + u \frac{\partial u}{\partial x} = \nu \frac{\partial^2 u}{\partial x^2}
-\]
+`∂u/∂t + u ∂u/∂x = ν ∂²u/∂x²`
+
 
 ## 📂 Project Structure
 
